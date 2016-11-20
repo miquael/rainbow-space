@@ -1,2 +1,3 @@
 # rainbow-space
-Rainbow Space
+
+an experimental transation of coordinate space with color
